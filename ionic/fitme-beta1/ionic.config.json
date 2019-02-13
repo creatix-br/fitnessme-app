@@ -1,0 +1,8 @@
+{
+  "name": "fitme-beta1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "da20444b"
+}
